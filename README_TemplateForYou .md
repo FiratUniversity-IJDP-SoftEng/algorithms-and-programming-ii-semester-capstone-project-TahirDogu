@@ -178,7 +178,7 @@ python -m unittest test_queen_solver.py
 
 ## Live Demo
 
-A live demo of this application is available at: *[Insert Streamlit Cloud URL here]*
+A live demo of this application is available at: *[https://algorithms-and-programming-ii-semester-capstone-project-tahird.streamlit.app]*
 
 ## Limitations and Future Improvements
 
