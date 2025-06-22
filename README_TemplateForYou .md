@@ -209,9 +209,9 @@ A live demo of this application is available at: *[Insert Streamlit Cloud URL he
 
 ## Author
 
-- **Name:** İbrahim Taha Pınar
+- **Name:** Mehmet Tahir Dogu
 - **Student ID:** [Your Student ID]
-- **GitHub:** [itahapinar](https://github.com/itahapinar)
+- **GitHub:** [itahapinar]([https://github.com/itahapinar](https://github.com/TahirDogu))
 
 ## Acknowledgements
 
